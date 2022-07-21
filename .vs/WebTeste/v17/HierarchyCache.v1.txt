@@ -1,0 +1,266 @@
+﻿++Solução 'WebTeste' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:WebTeste.sln
+++WebTeste
+i:{00000000-0000-0000-0000-000000000000}:WebTeste
+++Connected Services 
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:>195
+++Nenhuma dependência de serviço descoberta
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:>196
+++Dependências
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:>194
+++Analisadores
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:analisadores
+++Estruturas
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:estruturas
+++Properties
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\properties\
+++launchSettings.json
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\properties\launchsettings.json
+++wwwroot
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\
+++css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\css\
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\js\
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\
+++favicon.ico
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\favicon.ico
+++Controllers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\controllers\
+++HomeController.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\controllers\homecontroller.cs
+++Models
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\models\
+++ErrorViewModel.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\models\errorviewmodel.cs
+++Views
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\
+++Home
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\home\
+++Shared
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\shared\
+++_ViewImports.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\_viewstart.cshtml
+++appsettings.json
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\appsettings.json
+++appsettings.Development.json
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\appsettings.development.json
+++Program.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\program.cs
+++Microsoft.AspNetCore.Analyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\microsoft.netcore.app
+++site.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\css\site.css
+++site.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\js\site.js
+++bootstrap
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\
+++jquery
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery\
+++jquery-validation
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\home\index.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\menudepontos\index.cshtml
+++Privacy.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\shared\error.cshtml
+++dist
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery\dist\
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery\license.txt
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\shared\_layout.cshtml.css
+++jquery.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Jogador.cs
+++Pacotes
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:pacotes
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.7)
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:>270
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore.Tools (6.0.7)
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:>272
+++BancoDeDados.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\models\bancodedados.cs
+++MenuDePontos.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\models\menudepontos.cs
+++Migrations
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\migrations\
+++20220721002934_WebTeste.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\migrations\20220721002934_webteste.cs
+++BancoDeDadosModelSnapshot.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\migrations\bancodedadosmodelsnapshot.cs
+++20220721002934_WebTeste.Designer.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\migrations\20220721002934_webteste.designer.cs
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.7)
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:>448
+++Swashbuckle.AspNetCore (6.3.0)
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:>449
+++Microsoft.CodeAnalysis.Analyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++MessagePackAnalyzer
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++MenuDePontosController.cs
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\controllers\menudepontoscontroller.cs
+++MenuDePontos
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\menudepontos\
+++Create.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\menudepontos\create.cshtml
+++Delete.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\menudepontos\delete.cshtml
+++Details.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\menudepontos\details.cshtml
+++Edit.cshtml
+i:{14ee21c0-ca01-4a1a-b4b0-6cb31d81d71b}:c:\users\gr219\onedrive\área de trabalho\c#\webteste\webteste\views\menudepontos\edit.cshtml
+++MenuResultados.cs

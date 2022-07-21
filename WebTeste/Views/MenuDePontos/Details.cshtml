@@ -1,0 +1,36 @@
+﻿@model WebTeste.Models.MenuDePontos
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4> </h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Jogador)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Jogador)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Inserir_Data)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Inserir_Data)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Inserir_Pontuação)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Inserir_Pontuação)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.id">Editar</a> |
+    <a asp-action="Index">Retornar a página anterior</a>
+</div>

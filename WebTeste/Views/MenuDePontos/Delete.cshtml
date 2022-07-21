@@ -1,0 +1,39 @@
+﻿@model WebTeste.Models.MenuDePontos
+
+@{
+    ViewData["Title"] = "Excluir";
+}
+
+<h1>Excluir</h1>
+
+<h3>Exclusão de dados</h3>
+<div>
+    <h4>Tem certeza que deseja excluir?</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Jogador)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Jogador)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Inserir_Data)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Inserir_Data)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Inserir_Pontuação)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Inserir_Pontuação)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="id" />
+        <input type="submit" value="Excluir" class="btn btn-danger" /> |
+        <a asp-action="Index">Retornar a página anterior</a>
+    </form>
+</div>

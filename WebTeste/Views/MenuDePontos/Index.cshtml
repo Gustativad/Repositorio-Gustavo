@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebTeste.Models.MenuDePontos>
+
+@{
+    ViewData["Title"] = "Histórico de Registro";
+}
+
+<h1>Histórico de Registro</h1>
+
+<p>
+    <a asp-action="Create">Lance seus pontos aqui</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Jogador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Inserir_Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Inserir_Pontuação)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Jogador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Inserir_Data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Inserir_Pontuação)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
