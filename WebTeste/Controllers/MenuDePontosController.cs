@@ -52,7 +52,7 @@ namespace WebTeste.Controllers
         
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("id,Jogador,Inserir_Data,Inserir_Pontuação")] MenuDePontos menuDePontos)
+        public async Task<IActionResult> Create([Bind("id,Inserir_Nome,Inserir_Data,Inserir_Pontuação")] MenuDePontos menuDePontos)
         {
             if (ModelState.IsValid)
             {
@@ -82,7 +82,7 @@ namespace WebTeste.Controllers
         
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("id,Jogador,Inserir_Data,Inserir_Pontuação")] MenuDePontos menuDePontos)
+        public async Task<IActionResult> Edit(int id, [Bind("id,Inserir_Nome,Inserir_Data,Inserir_Pontuação")] MenuDePontos menuDePontos)
         {
             if (id != menuDePontos.id)
             {

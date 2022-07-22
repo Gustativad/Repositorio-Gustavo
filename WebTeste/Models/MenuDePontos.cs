@@ -3,7 +3,7 @@
     public class MenuDePontos
     {
         public int id { get; set; }
-        public string Jogador { get; set; }
+        public string Inserir_Nome { get; set; }
 
         public string Inserir_Data { get; set; }
 
